@@ -76,22 +76,12 @@ AI-driven incident response system for PortNet® with custom RAG pipeline implem
 
 ---
 
-## 🌱 Currently Exploring
-
-- Deep learning frameworks (PyTorch & TensorFlow)
-- Advanced RAG architectures & vector databases
-- Systems programming & performance optimization
-- Cloud-native application deployment
-
----
-
 ## 📫 Let's Connect
 
 I'm actively seeking **software engineering** and **AI/ML internships** for 2026. Feel free to reach out if you'd like to discuss projects, collaborate, or just chat about tech!
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/easan7)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:easan@example.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/easan-saravan)
   
 </div>
