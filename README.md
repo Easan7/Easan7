@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at SMU with a strong interest in **full-stack development** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on automation, data-driven decision support, and intelligent workflows.
+I'm a Computer Science student at SMU with a strong interest in **software development**, **data analytics** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on automation, data-driven decision support, and intelligent workflows.
 
 Currently expanding my knowledge in **deep learning frameworks** (PyTorch/TensorFlow) and **full-stack development**.
 
@@ -78,7 +78,7 @@ AI-driven incident response system for PortNet® with custom RAG pipeline implem
 
 ## 📫 Let's Connect
 
-I'm actively seeking **software engineering** and **AI/ML internships** for 2026. Feel free to reach out if you'd like to discuss projects, collaborate, or just chat about tech!
+I'm actively seeking **software development** and **AI/ML internships** for 2026. Feel free to reach out if you'd like to discuss projects, collaborate, or just chat about tech!
 
 <div align="center">
   
