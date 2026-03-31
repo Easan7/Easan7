@@ -4,7 +4,7 @@
   
   ### 🎓 CS Undergraduate @ Singapore Management University
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3F9EF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Hackathon+Champion+%7C+Building+Real+Solutions;Learning+Deep+Learning+%26+Systems+Programming;Open+to+SWE+%26+AI%2FML+Internships+2026" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3F9EF7&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+Agentic+Learning+Systems;Building+RAG+Pipelines+for+Real+Users;Analytics-Grounded+Personalized+AI+Coaching;Applied+ML+for+Decision+Support" alt="Typing SVG" /></a>
 
   
 </div>
@@ -15,7 +15,7 @@
 
 I'm a Computer Science student at SMU with a strong interest in **full-stack development** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on automation, data-driven decision support, and intelligent workflows.
 
-Currently expanding my knowledge in **deep learning frameworks** (PyTorch/TensorFlow) and **full-stack development**.
+Currently expanding my knowledge in **deep learning theory and frameworks** (PyTorch/TensorFlow) as well as **agentic AI**.
 
 ---
 
@@ -32,11 +32,13 @@ Currently expanding my knowledge in **deep learning frameworks** (PyTorch/Tensor
 
 **Backend & Databases**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / Data**  
+![LangGraph](https://img.shields.io/badge/-LangGraph-0A0A0A?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -61,6 +63,19 @@ AI-powered legal assistant using RAG (Retrieval-Augmented Generation) to navigat
 ### [**PSA Hackathon**](https://github.com/Easan7/PSA-100plus1) — *PSA Code Sprint*
 AI-driven incident response system for PortNet® with custom RAG pipeline implementation, vector embeddings stored in Supabase for intelligent query handling.
 
+### [**GPAmaxxing**](https://github.com/Easan7/GPAmaxxing)
+Built an agentic AI study coach that:
+- routes student queries through an LLM-classified intent graph,
+- computes topic mastery/trends/error patterns from attempt history,
+- retrieves relevant lecturer-note evidence with RAG,
+- and synthesizes personalized, analytics-grounded coaching plus study plans.
+
+### [**TarriffOne**](https://github.com/smu-cs203-project/MVP)
+University module MVP for international tariff calculation that combines:
+- HS-code and country-rate tariff computation via a Spring Boot service,
+- curated tariff datasets and preprocessing workflows,
+- and a news-assisted analysis pipeline (`news-rag.py`) for policy-context summaries.
+
 ---
 
 ## 📊 GitHub Stats
@@ -78,7 +93,7 @@ AI-driven incident response system for PortNet® with custom RAG pipeline implem
 
 ## 📫 Let's Connect
 
-I'm actively seeking **software engineering** and **AI/ML internships** for 2026. Feel free to reach out if you'd like to discuss projects, collaborate, or just chat about tech!
+Feel free to reach out if you'd like to discuss projects, collaboration, or AI/ML and software engineering ideas.
 
 <div align="center">
   
