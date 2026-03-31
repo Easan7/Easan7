@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at SMU with a strong interest in **full-stack development** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on automation, data-driven decision support, and intelligent workflows.
+I'm a Computer Science student at SMU with a strong interest in **software development**, **data analytics** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on automation, data-driven decision support, and intelligent workflows.
 
 Currently expanding my knowledge in **deep learning theory and frameworks** (PyTorch/TensorFlow) as well as **agentic AI**.
 
