@@ -64,6 +64,7 @@ Built an agentic AI study coach that used RAG, statistical analysis and intent c
 
 ### [**TarriffOne**](https://github.com/smu-cs203-project/MVP)
 University module MVP for international tariff calculation.
+
 ---
 
 ## 📊 GitHub Stats
