@@ -13,9 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at SMU with a strong interest in **software development**, **data analytics** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on automation, data-driven decision support, and intelligent workflows.
+I'm a Computer Science student at SMU with a strong interest in **deep learning**, **software development** and **AI-driven applications**. Through hackathons and personal projects, I've built real-world applications focused on RAG, agentic AI and a good user experience.
 
-Currently expanding my knowledge in **deep learning theory and frameworks** (PyTorch/TensorFlow) as well as **agentic AI**.
+Currently expanding my knowledge in **deep learning theory AND practical approaches** as well as **agentic AI** and **data engineering**.
 
 ---
 
@@ -42,7 +42,6 @@ Currently expanding my knowledge in **deep learning theory and frameworks** (PyT
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -54,9 +53,6 @@ Volunteer management system using ML to predict elderly risk levels and intellig
 ### 🥈 [**Hemoglobin Prediction**](https://github.com/RaynerGWH/gerg-does-hemoglobin-prediction) — *1st Runner-up, SMU DSA Hackathon 2025*
 ML model reliably predicting haemoglobin levels from lip images despite limited training data, utilizing data augmentation and transfer learning techniques.
 
-### [**FireFlow**](https://github.com/YeoBenShin/FireFlow)
-Personal financial tracking app featuring dynamic daily budget adjustments based on monthly goals and collaborative saving targets. Built with Next.js and Express.js.
-
 ### [**Lawgic**](https://github.com/gregleejy/lawgic-hackathon)
 AI-powered legal assistant using RAG (Retrieval-Augmented Generation) to navigate PDPA compliance and privacy regulations. Next.js frontend with FastAPI backend.
 
@@ -64,18 +60,10 @@ AI-powered legal assistant using RAG (Retrieval-Augmented Generation) to navigat
 AI-driven incident response system for PortNet® with custom RAG pipeline implementation, vector embeddings stored in Supabase for intelligent query handling.
 
 ### [**GPAmaxxing**](https://github.com/Easan7/GPAmaxxing)
-Built an agentic AI study coach that:
-- routes student queries through an LLM-classified intent graph,
-- computes topic mastery/trends/error patterns from attempt history,
-- retrieves relevant lecturer-note evidence with RAG,
-- and synthesizes personalized, analytics-grounded coaching plus study plans.
+Built an agentic AI study coach that used RAG, statistical analysis and intent classification to give recommendations and directly update study plans.
 
 ### [**TarriffOne**](https://github.com/smu-cs203-project/MVP)
-University module MVP for international tariff calculation that combines:
-- HS-code and country-rate tariff computation via a Spring Boot service,
-- curated tariff datasets and preprocessing workflows,
-- and a news-assisted analysis pipeline (`news-rag.py`) for policy-context summaries.
-
+University module MVP for international tariff calculation.
 ---
 
 ## 📊 GitHub Stats
